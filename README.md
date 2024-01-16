@@ -66,10 +66,10 @@ tuffy.ttf
 
 --------------------------------------------------------------------------------------------------------------------------
 
-5)	Move ‘.dll’ files which is in the ‘bin’ folder of SFML into the Visual Studio project folder.
+(5)	Move ‘.dll’ files which is in the ‘bin’ folder of SFML into the Visual Studio project folder.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/0a2db9ca-c4df-47f5-84fa-29919e8d8cfe)
 
-7)	Include all the ‘.dll’ files in the project. Then, you’re ready to run the game.
+(6)	Include all the ‘.dll’ files in the project. Then, you’re ready to run the game.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/88cf8136-1248-4f66-9584-66e5ad775340)
 
 
