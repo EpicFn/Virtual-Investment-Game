@@ -52,6 +52,7 @@ tuffy.ttf
 4)	Open ‘프로젝트 -> (프로젝트 이름) 속성’
 --------------------------------------------------------------------------------------------------------------------------------------
 (1)	choose ‘모든 구성’
+
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/b367aebd-2d78-4c05-a91d-343ffe672eba)
 
 (2)	Put the directory address of ‘include’ folder of SFML at ‘구성 속성 -> C/C++ -> 일반 -> 추가 포함 디렉터리’.
