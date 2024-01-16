@@ -53,10 +53,13 @@ tuffy.ttf
 --------------------------------------------------------------------------------------------------------------------------------------
 (1)	choose ‘모든 구성’
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/b367aebd-2d78-4c05-a91d-343ffe672eba)
+
 (2)	Put the directory address of ‘include’ folder of SFML at ‘구성 속성 -> C/C++ -> 일반 -> 추가 포함 디렉터리’.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/7825f28b-b3d3-4bcf-9f7a-874964b9a05b)
+
 (3)	Put the directory address of ‘lib’ folder of SFML at ‘구성 속성 -> 링커 -> 일반 -> 추가 라이브러리 디렉터리’.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/dc33090c-7a70-4c29-85ce-6f97067ac2aa)
+
 (4)	Paste “sfml-main-d.lib;sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;sfml-network-d.lib” at ‘구성 속성 -> 링커 -> 입력 -> 추가 종속성’.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/7ee102f5-ffb6-45d9-96b5-d0d08a651071)
 
@@ -64,7 +67,8 @@ tuffy.ttf
 
 5)	Move ‘.dll’ files which is in the ‘bin’ folder of SFML into the Visual Studio project folder.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/0a2db9ca-c4df-47f5-84fa-29919e8d8cfe)
-6)	Include all the ‘.dll’ files in the project. Then, you’re ready to run the game.
+
+7)	Include all the ‘.dll’ files in the project. Then, you’re ready to run the game.
 ![image](https://github.com/EpicFn/Virtual-Investment-Game/assets/71928299/88cf8136-1248-4f66-9584-66e5ad775340)
 
 
